@@ -1,0 +1,10 @@
+.container_width {
+  max-width: 1140px;
+  margin: 10px auto;
+}
+.container_width_mini {
+  margin: 50px auto;
+}
+.photo_head {
+  width: 100%;
+}
